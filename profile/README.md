@@ -22,4 +22,4 @@ Each language repo is a read-only split of the main repo.
 
 ## Husk
 
-**[husk](https://github.com/antidrift-dev/husk)**: a native Mac terminal for AI coding, built on Ghostty. [Download](https://github.com/antidrift-dev/husk/releases/latest)
+**[husk](https://github.com/antidrift-dev/husk)**: a native Mac terminal for AI coding, built on [Ghostty](https://github.com/ghostty-org/ghostty). [Download](https://github.com/antidrift-dev/husk/releases/latest)
