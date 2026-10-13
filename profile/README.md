@@ -4,7 +4,7 @@ Open source tools, built because [probeo](https://probeo.io) needed them first. 
 
 ## ZeroMCP
 
-**[zeromcp](https://github.com/antidrift-dev/zeromcp)**: zero-config MCP runtime. Drop a tool, get a sandboxed MCP server.
+**[zeromcp](https://github.com/antidrift-dev/zeromcp)**: zero-config MCP runtime. Drop a tool, get a sandboxed MCP server. [Docs](https://github.com/antidrift-dev/zeromcp/blob/main/docs/README.md) · [Benchmarks](https://github.com/antidrift-dev/zeromcp-benchmarks)
 
 The same runtime comes in ten languages:
 [Node](https://github.com/antidrift-dev/zeromcp-node) ·
@@ -20,6 +20,6 @@ The same runtime comes in ten languages:
 
 Each language repo is a read-only split of the main repo.
 
-## DNA
+## Husk
 
-**[antidrift](https://github.com/probeo-io/antidrift)**: company brain skills for Claude Code. Shared knowledge, shared skills, no more passing markdown files.
+**Husk**: all your AI sessions, one place. A native Mac terminal for running Claude Code, Codex and Cursor side by side.
