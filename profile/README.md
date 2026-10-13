@@ -22,4 +22,4 @@ Each language repo is a read-only split of the main repo.
 
 ## Husk
 
-**Husk**: all your AI sessions, one place. A native Mac terminal for running Claude Code, Codex and Cursor side by side.
+**[husk](https://github.com/antidrift-dev/husk)**: a native Mac terminal for AI coding, built on Ghostty. [Download](https://github.com/antidrift-dev/husk/releases/latest)
